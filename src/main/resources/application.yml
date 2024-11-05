@@ -1,0 +1,13 @@
+#spring.application.name=rabbitmq-demo
+#spring.activemq.broker-url=localhost:5672
+#spring.activemq.user=admin
+#spring.activemq.password=admin
+
+
+spring:
+  application:
+    name: rabbitmq-demo
+#  activemq:
+#    broker-url: localhost
+#    user: admin
+#    password: admin
